@@ -4,3 +4,4 @@ neem tree
 tulsi
 moneyplant
 idly flower
+rose
